@@ -17,4 +17,6 @@ Materiale per la materia Sistemi e Reti
 <h3>Materiale pratico:</h3>
 <ul>
   <li><a href="./19_SisReti3_U7_L6_Impostare_i_criteri_di_auditing.pdf">Criteri di auditing</a></li>
+  <li><a href="./MODULO 1 - Configurazione VLAN mediante CLI.pdf">VLAN</a></li>
+  <li><a href="./vpn.docx">VPN</a></li>
 </ul>
