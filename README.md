@@ -1,5 +1,8 @@
 # -Sistemi-e-reti
 Materiale per la materia Sistemi e Reti
+<h3>Introduzione</h3>
+<h2>Il corso si prefigge gli obiettivi di acquisizione, da parte dello studente, delle conoscenze relative alla configurazione, installazione e gestione di un sistema di elaborazione dati e delle conoscenze relative alla realizzazione di reti locali, con comprensione delle problematiche annesse.</h2>
+<br>
 <h3>Materiale teorico:</h3>
 <ul>
   <li><a href="./1-A_Applicazioni di rete cosa sono e come funzionano.pdf">Applicazioni di rete</a></li>
