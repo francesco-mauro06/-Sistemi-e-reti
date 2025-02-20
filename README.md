@@ -7,6 +7,7 @@ Il corso si prefigge gli obiettivi di acquisizione, da parte dello studente, del
 <ul>
   <li><a href="./1-A_Applicazioni di rete cosa sono e come funzionano.pdf">Applicazioni di rete</a></li>
   <h4>Un'applicazione di rete è un programma o un servizio software che si basa sulle risorse di rete per eseguire funzioni specifiche, consentendo la comunicazione, la condivisione dei dati e la collaborazione tra i dispositivi collegati a una rete.</h4>
+  <hr>
   <li><a href="./5_VLAN.pdff">VLAN</a></li>
   <h4>VLAN "virtual Local Area Network", il suo principale scopo è creare delle sottoreti in modo virtuale.</h4>
   <li><a href="./6_DNS.pdf">DNS</a></li>
