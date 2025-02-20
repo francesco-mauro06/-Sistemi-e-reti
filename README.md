@@ -1,6 +1,6 @@
 # -Sistemi-e-reti
 Materiale per la materia Sistemi e Reti
-<img src="INTERNET-La-rete-delle-reti.png">
+<img src="images.jpg">
 <h3>Introduzione</h3>
 Il corso si prefigge gli obiettivi di acquisizione, da parte dello studente, delle conoscenze relative alla configurazione, installazione e gestione di un sistema di elaborazione dati e delle conoscenze relative alla realizzazione di reti locali, con comprensione delle problematiche annesse.
 <br>
