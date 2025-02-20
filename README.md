@@ -15,7 +15,7 @@ Il corso si prefigge gli obiettivi di acquisizione, da parte dello studente, del
   <h4>Domain Name System, in informatica e telecomunicazioni, indica un sistema utilizzato per assegnare nomi ai nodi della rete.</h4>
   <hr>
   <li><a href="./7_NAT.pdff">NAT</a></li>
-  NAT "Network Address Translation", permette di ridurre il consumo di indirizzi IP.
+  <h4>NAT "Network Address Translation", permette di ridurre il consumo di indirizzi IP.</h4>
   <hr>
   <li><a href="./12_Protocollo DHCP - Copia.pdf">DHCP</a></li>
   <h4>DHCP "Dynamic Host Configuration Protocol", serve per assegnare in modo dinamico gli indirizzi IP all'interno di una rete.</h4>
